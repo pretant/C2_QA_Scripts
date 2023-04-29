@@ -4,6 +4,8 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.0:***
+  - Added "Undo Package" button. It moves images into folders according to their structure ID numbers.
 ***Version 2.0.1:***
   - Fixed a bug where update needs user to have Python in their system. Update should now work properly.
 
