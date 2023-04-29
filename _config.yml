@@ -1,4 +1,4 @@
 # _config.yml
-theme: jekyll-theme-minimal
+theme: midnight
 markdown: kramdown
 permalink: /:title/
