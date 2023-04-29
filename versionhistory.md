@@ -9,7 +9,7 @@ permalink: /versionhistory/
 
 ***Version 2.0.0:***
   - Bug fixes
-  - Merger scripts mainly for compiling our data at the end of the day.
+  - Added Merge Directories and Merge Travelers.
   - EEAAO button, the button that does everything in one push, has been removed. It's too much XD.
   - The main window won't freeze anymore while running a script. This means you can now do multiple processes simultaneously.
   - Renaming scripts now correctly print the original names and the new names on the console.
