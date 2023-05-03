@@ -4,18 +4,12 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-<<<<<<< HEAD
 ***Version 2.1.1:***
   - Added more print messages for easier troubleshooting.
+  - For transmission, structure ID reference has been changed from "StructureN" column to "FLOC" column.
 
 ***Version 2.1.0:***
   - Added “Undo Package” button. It moves images into folders according to their structure ID numbers. Version 2.0.1:
-=======
-***Version 2.1.0:***
-  - Added "Undo Package" button. It moves images into folders according to their structure ID numbers.
-***Version 2.0.1:***
->>>>>>> 8f21272383e675468b8df4feda0b9a98390e9ebc
-  - Fixed a bug where update needs user to have Python in their system. Update should now work properly.
 
 ***Version 2.0.1:***
   - Fixed a bug where update needs user to have Python in their system. Update should now work properly even without Python.
