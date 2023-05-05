@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 2.1.2:***
+  - Merge Directories now removes empty folders after merging.
+  - Merge Directories and Merge Travelers widgets now stay on top of any open windows.
+
 ***Version 2.1.1:***
   - Added more print messages for easier troubleshooting.
   - For transmission, structure ID reference has been changed from "StructureN" column to "FLOC" column.
