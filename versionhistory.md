@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.0.0:***
+  - Main window now holds the "console". No more separate console window.
+  - Added functionality to copy console messages and error messages.
+  - Minor improvements and bug fixes.
+
 ***Version 2.1.2:***
   - Merge Directories now removes empty folders after merging.
   - Merge Directories and Merge Travelers widgets now stay on top of any open windows.
