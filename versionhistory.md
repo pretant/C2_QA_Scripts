@@ -3,6 +3,9 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+***Version 3.0.1:***
+  - The app is now called "C2 QA Scripts"
+  - Minor improvements and bug fixes.
 
 ***Version 3.0.0:***
   - Main window now holds the "console". No more separate console window.
