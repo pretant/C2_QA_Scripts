@@ -4,7 +4,7 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 ***Version 3.0.1:***
-  - The app is now called "C2 QA Scripts"
+  - The app is optimized for faster initial loading.
   - Minor improvements and bug fixes.
 
 ***Version 3.0.0:***
