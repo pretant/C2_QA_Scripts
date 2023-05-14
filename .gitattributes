@@ -1,3 +1,0 @@
-C2[[:space:]]QA[[:space:]]Scripts.exe filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
-QAScripts.exe filter=lfs diff=lfs merge=lfs -text
