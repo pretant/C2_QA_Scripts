@@ -3,6 +3,12 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+
+***Version 3.1.0:***
+  - Added "GIS vs Upload Check" button that compares structure IDs reported in GIS and Upload Check
+  - Filter Extract now creates a new file instead of overwriting the GIS Extract. New file is named "[D or T]_Filtered_GIS_Extract_[date].xlsx" and is saved in the same directory as the structure folders.
+  - Minor improvements and bug fixes.
+
 ***Version 3.0.1:***
   - The app is optimized for faster initial loading.
   - Minor improvements and bug fixes.
