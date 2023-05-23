@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.1.1:***
+  - Fixed a bug where version history is not showing when clicked.
+
 ***Version 3.1.0:***
   - Added "GIS vs Upload Check" button that compares structure IDs reported in GIS and Upload Check
   - Filter Extract now creates a new file instead of overwriting the GIS Extract. New file is named "[D or T]_Filtered_GIS_Extract_[date].xlsx" and is saved in the same directory as the structure folders.
