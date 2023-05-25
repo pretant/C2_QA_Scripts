@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.2.0:***
+  - Changed "GIS vs Upload Check" to "GIS vs UC vs TS" which now compares GIS, Upload Check and Traveler Sheet.
+  -   - Minor improvements and bug fixes.
+
 ***Version 3.1.1:***
   - Fixed a bug where version history is not showing when clicked.
 
