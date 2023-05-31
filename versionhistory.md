@@ -4,9 +4,14 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.3.0:***
+  - "[D or T]_Filtered_GIS_Extract_[date].xlsx" is now saved in the same directory as the original extract (not the structure folders).
+  - Filter Extract now creates a new sheet called "Issues" that lists all issues found in the extract, which can be copied and pastied to Issue Tracker.
+  - Minor improvements and bug fixes.
+
 ***Version 3.2.0:***
   - Changed "GIS vs Upload Check" to "GIS vs UC vs TS" which now compares GIS, Upload Check and Traveler Sheet.
-  -   - Minor improvements and bug fixes.
+  - Minor improvements and bug fixes.
 
 ***Version 3.1.1:***
   - Fixed a bug where version history is not showing when clicked.
