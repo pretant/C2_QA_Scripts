@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.3.1:***
+  - Fixed a bug where Filter and Rename for Distribution processes data as Transmission.
+  - Fixed a bug where Filter Extract shows an error message when creating "Issues" sheet if there is no issue found. It now shows "No issue found. Extract is successfully filtered and processed." and skips creating the "Issues" sheet.
+  - Minor improvements.
+
 ***Version 3.3.0:***
   - "[D or T]_Filtered_GIS_Extract_[date].xlsx" is now saved in the same directory as the original extract (not the structure folders).
   - Filter Extract now creates a new sheet called "Issues" that lists all issues found in the extract, which can be copied and pastied to Issue Tracker.
