@@ -4,6 +4,12 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.4.0:***
+  - Changed "GIS vs UC vs TS" back to "GIS vs Upload Check" to compare only GIS and Upload Check data
+  - Added "GIS vs Traveler" button that compares daily compiled traveler sheets to GIS in order to spot discrepancies before submitting to SCE.
+  - Combined "Watermark (Sky)" and "Watermark (DJI)" into "Watermark Prep" button. It automatically detects which drone/camera was used to capture the images.
+  - Added "Delta Report" button that finds discrepancies between the final Traveler Sheet and the GIS (and Upload Check). It is made to prep research on missing structures.
+
 ***Version 3.3.1:***
   - Fixed a bug where Filter and Rename for Distribution processes data as Transmission.
   - Fixed a bug where Filter Extract shows an error message when creating "Issues" sheet if there is no issue found. It now shows "No issue found. Extract is successfully filtered and processed." and skips creating the "Issues" sheet.
