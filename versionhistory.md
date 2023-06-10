@@ -4,7 +4,13 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 3.4.0:***
+***Version 3.5.0:***
+  - Deletion of unnecessary columns when filtering extracts are now back.
+  - Added "Merge Extracts" button to combine the regular extract and new map extract into one.
+  - Minor improvements and bug fixes to accomodate new map extract.
+  
+
+***Version 3.4.1:***
   - Temporarily removed the deletion of unnecessary column when filtering extract.
   - Minor improvement and bug fixes.
 
