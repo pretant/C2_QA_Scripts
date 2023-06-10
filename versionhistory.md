@@ -5,6 +5,10 @@ permalink: /versionhistory/
 ---
 
 ***Version 3.4.0:***
+  - Temporarily removed the deletion of unnecessary column when filtering extract.
+  - Minor improvement and bug fixes.
+
+***Version 3.4.0:***
   - Changed "GIS vs UC vs TS" back to "GIS vs Upload Check" to compare only GIS and Upload Check data
   - Added "GIS vs Traveler" button that compares daily compiled traveler sheets to GIS in order to spot discrepancies before submitting to SCE.
   - Combined "Watermark (Sky)" and "Watermark (DJI)" into "Watermark Prep" button. It automatically detects which drone/camera was used to capture the images.
