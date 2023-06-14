@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.5.1:***
+  - "Merge Extract" now tries to fill out missing Mapped_Lat, Mapped_Lon, Structure_, and FLOC values, if possible. If there is no way to find those missing values, the script will flag a message showing whic h row these missing values are.
+
 ***Version 3.5.0:***
   - Deletion of unnecessary columns when filtering extracts are now back.
   - Added "Merge Extracts" button to combine the regular extract and new map extract into one.
