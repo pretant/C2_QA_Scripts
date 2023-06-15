@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.5.2:***
+  - Updated "Filter Extract" to accomodate for duplicate Structure IDs in the extract.
+  - Minor improvements and bug fixes.
+
 ***Version 3.5.1:***
   - "Merge Extract" now tries to fill out missing Mapped_Lat, Mapped_Lon, Structure_, and FLOC values, if possible. If there is no way to find those missing values, the script will flag a message showing whic h row these missing values are.
 
