@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.5.4:***
+  - Minor improvements and bug fixes.
+
 ***Version 3.5.3:***
   - Fixed a bug where the script thinks there are duplicate Structure IDs when there is none while filtering transmission extracts.
 
