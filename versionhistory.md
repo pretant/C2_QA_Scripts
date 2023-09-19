@@ -3,6 +3,8 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+***Version 3.5.5:***
+  - Minor improvements and bug fixes.
 
 ***Version 3.5.4:***
   - Minor improvements and bug fixes.
