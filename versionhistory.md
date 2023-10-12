@@ -3,6 +3,12 @@ layout: page
 title: "Version History"
 permalink: /versionhistory/
 ---
+
+***Version 3.6.0:***
+  - Enhanced handling efficiency for misnamed folders during "Filter Extract" operation.
+  - Introduced a feature in "Filter Extract" to create a new tab for every team being processed, comparing folder names with GIS structure IDs from the respective flight dates.
+  - Minor improvements and bug fixes.
+
 ***Version 3.5.6:***
   - Improved prompts and handling of incorrectly named folders when filtering extract.
   - Minor improvements and bug fixes.
