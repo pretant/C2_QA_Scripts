@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.6.4:***
+  - Minor improvements and bug fixes.
+
 ***Version 3.6.3:***
   - Minor improvements and bug fixes.
 
