@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.6.6:***
+  - "Complete Traveler" now takes empty traveler sheet templates for both distribution and transmission.
+  - Minor improvements and bug fixes.
+
 ***Version 3.6.5:***
   - Enhanced handling of extract duplicate structures.
   - Minor improvements and bug fixes.
