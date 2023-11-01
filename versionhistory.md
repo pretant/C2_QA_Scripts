@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.7.0:***
+  - Added an "Issue Tracker" button that directs user to the Issue Tracker Form.
+
 ***Version 3.6.7:***
   - Minor improvements and bug fixes.
 
