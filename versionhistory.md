@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 3.8.0:***
+  - Added "Filter Helo" and "Package Helo" buttons to process helo structures.
+  - Minor improvements and bug fixes.
+
 ***Version 3.7.0:***
   - Added an "Issue Tracker" button that directs user to the Issue Tracker Form.
 
