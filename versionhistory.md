@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.0.0:***
+  - New and improved UI.
+  - Added "Daily Delta" button to compare and validate data from the field to QA.
+  - Minor improvements and bug fixes.
+
 ***Version 3.8.0:***
   - Added "Filter Helo" and "Package Helo" buttons to process helo structures.
   - Minor improvements and bug fixes.
