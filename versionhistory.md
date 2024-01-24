@@ -4,6 +4,16 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.1.0:***
+  - Improved UI.
+  - Added user "login" (no password... yet) and added QA name column to completed traveler sheet.
+  - Added "Quick Links" to the menu options. It consists buttons that link to various web pages used daily by QA.
+  - Integrated Data Conformance script (the one Ben uses) to "Daily Delta".
+  - Added tabs to Filtered Extract for EZ Poles in Distro, EZ Poles in Trans, and AOC.
+  - Added "OH-" before the structure number when renaming tranmission images.
+  - Adjusted functionalities to conform with the new GIS extracts and traveler sheets.
+  - Minor improvements and bug fixes.
+
 ***Version 4.0.4:***
   - Minor improvements and bug fixes.
 
