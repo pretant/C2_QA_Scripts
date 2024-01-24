@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.1.1:***
+  - Fixed Austin Tinnell's name. MY APOLOGIES.
+
 ***Version 4.1.0:***
   - Improved UI.
   - Added user "login" (no password... yet) and added QA name column to completed traveler sheet.
