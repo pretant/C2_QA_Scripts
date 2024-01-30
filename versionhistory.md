@@ -4,6 +4,16 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.2.0:***
+  - Fixed a bug where Flight_Date column is not formatted correctly for transmission traveler sheet.
+  - Fixed a bug where the datetaken format of an image is not recognized when doing Watermark Prep. It is now treated as an image with no date, so user will be asked to enter a date.
+  - Added Team_Number and EZ_in_Distro to transmission traveler sheet.
+  - Added a prefix "OH-" when renaming distribution images.
+  - Added prefix "OH-" to SCE_STRUCT column on both traveler sheets.
+  - Complete Traveler now creates a new file instead of replacing the traveler sheet template. New file is named "[qa_first_name]_[D or T]_C2_[filtered_extract_date].xlsx" and saved in the same directory as the filtered extract.
+  - Merge Traveler now creates a new file instead of replacing the traveler sheet template. New file is named "[D or T]_C2_[date_today].xlsx" and saved in the same directory as the traveler sheet template.
+  - Minor improvements and bug fixes.
+
 ***Version 4.1.1:***
   - Fixed Austin Tinnell's name. MY APOLOGIES.
 
