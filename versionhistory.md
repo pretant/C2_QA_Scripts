@@ -4,6 +4,16 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.3.0:***
+  - Added "Pre-upload Validation" that checks for various things to make sure data is ready to be zipped and uploaded to OneDrive.
+  - "Undo Package" now adapats to the OH- prefixes and names the structure folders without the OH-.
+  - "Package Data" now checks if the images are named properly and if the directory has all the structures listed in the completed traveler sheet.
+  - Fixed a bug where the dropdown list for Vendor Category in the traveler sheet is incorrect.
+  - The completed traveler filename date is now based on the latest flight date on the traveler sheet.
+  - Added a "Find" button (CTRL+F) to search for texts in the textbox area. (needs further improvements)
+  - Tooltips are now fixed and reinstated.
+  - Minor improvements and bug fixes.
+
 ***Version 4.2.0:***
   - Fixed a bug where Flight_Date column is not formatted correctly for transmission traveler sheet.
   - Fixed a bug where the datetaken format of an image is not recognized when doing Watermark Prep. It is now treated as an image with no date, so user will be asked to enter a date.
@@ -25,6 +35,7 @@ permalink: /versionhistory/
   - Added tabs to Filtered Extract for EZ Poles in Distro, EZ Poles in Trans, and AOC.
   - Added "OH-" before the structure number when renaming tranmission images.
   - Adjusted functionalities to conform with the new GIS extracts and traveler sheets.
+  - Tooltips have been removed due to some issues (will be reinstated once fixed).
   - Minor improvements and bug fixes.
 
 ***Version 4.0.4:***
