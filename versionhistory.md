@@ -4,6 +4,12 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.3.1:***
+  - Daily delta for transmission and distribution are now combined ("Daily Delta" button).
+  - Resolved an issue where list.remove(x) shows an error when resolving duplicate matches.
+  - Font colors are added to the text box -- red font for issues, green for process completion (more in future updates).
+  - Minor improvements and bug fixes.
+
 ***Version 4.3.0:***
   - Added "Pre-upload Validation" that checks for various things to make sure data is ready to be zipped and uploaded to OneDrive.
   - "Undo Package" now adapats to the OH- prefixes and names the structure folders without the OH-.
