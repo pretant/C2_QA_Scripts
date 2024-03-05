@@ -5,10 +5,10 @@ permalink: /versionhistory/
 ---
 
 ***Version 4.3.2:***
-  - Minor improvements and bug fixes.
   - Added a "Copy" functionality when user right-clicks on the textbox area
   - Added yellow highlights and font color to RTV structures in FilteredExtract sheet
   - Added RTV sheet to the Filtered_GIS_Extract file.
+  - Minor improvements and bug fixes.
 
 ***Version 4.3.1:***
   - Daily delta for transmission and distribution are now combined ("Daily Delta" button).
