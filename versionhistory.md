@@ -4,7 +4,13 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 4.3.2:***
+***Version 4.3.3:*** 3/5/2024
+  - Added an issue summary pop-up after the Watermark Prep process is done.
+  - When encountering an error during the watermark prep process, the problem image will be skipped and be added to issue summary instead of stopping the whole script.
+  - Improved error handling and visuals.
+  - Minor improvements and bug fixes.
+
+***Version 4.3.2:*** 3/4/2024
   - Added a "Copy" functionality when user right-clicks on the textbox area
   - Added yellow highlights and font color to RTV structures in FilteredExtract sheet
   - Added RTV sheet to the Filtered_GIS_Extract file.
