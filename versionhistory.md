@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.3.4:*** 3/7/2024
+  - Modified transmission Filter Extract to accommodate EZ poles that are from distribution extract.
+  - Minor improvements and bug fixes.
+
 ***Version 4.3.3:*** 3/5/2024
   - Added an issue summary pop-up after the Watermark Prep process is done.
   - When encountering an error during the watermark prep process, the problem image will be skipped and be added to issue summary instead of stopping the whole script.
