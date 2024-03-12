@@ -4,6 +4,16 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.3.5:*** 3/11/2024
+  - Fixed a bug that occasionally caused the process of merging traveler data to be stuck, ensuring smoother operations.
+  - Implemented automatic addition of "OH-" prefixes to structure IDs in merged traveler sheets when absent, enhancing data consistency.
+  - Adjusted the table range in merged traveler sheets to automatically reflect the intended data set, eliminating the issue of bottom rows not being a part of the table.
+  - Minor improvements and bug fixes.
+  - Added yellow highlights and font color to internal refly structures ("Internal Refly Complete") and EZ poles that are in both scopes ("In Distro Package" or "EZ Pole on Trans Map") in FilteredExtract sheet
+  - Added Internal Refly sheet to the Filtered_GIS_Extract file.
+  - Watermark Prep now deletes hidden Mac files before processing images (this way, you don't have to filter extract first before watermarking).
+  - Minor improvements and bug fixes.
+
 ***Version 4.3.4:*** 3/7/2024
   - Modified transmission Filter Extract to accommodate EZ poles that are from distribution extract.
   - Minor improvements and bug fixes.
@@ -47,7 +57,7 @@ permalink: /versionhistory/
   - Minor improvements and bug fixes.
 
 ***Version 4.1.1:***
-  - Fixed Austin Tinnell's name. MY APOLOGIES.
+  - Fixed Austin Tinnell's name. Sorry >_<.
 
 ***Version 4.1.0:***
   - Improved UI.
