@@ -15,7 +15,7 @@ permalink: /versionhistory/
   - Minor improvements and bug fixes.
 
 ***Version 4.3.4:*** 3/7/2024
-  - Modified transmission Filter Extract to accommodate EZ poles that are from distribution extract.
+  - Transmission's "Filter Extract" funtionality now asks for the distribution extract when it detects "In Distro Package" EZ Poles to accommodate for EZ poles that are in both scopes.
   - Minor improvements and bug fixes.
 
 ***Version 4.3.3:*** 3/5/2024
