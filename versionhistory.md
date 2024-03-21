@@ -4,6 +4,13 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.0:*** 3/21/2024
+  - Added "Time Sheet" to Quick Links
+  - Combined Transmission and Distribution dropdowns into "Data Processing". The script now figures out which scope the user is processing using the name of the GIS extract or Filtered Extract.
+  - Traveler sheet templates are now embedded in the app so user will not be asked to input them anymore when running "Complete Traveler" and "Merge Travelers". The script also decides which template to use.
+  - Should the script encounter difficulty in identifying the correct template due to unconventional extract or traveler sheet names, it will prompt the user to double-check the accuracy of the entered sheets, and then ask the user which template to utilize.
+  - Minor improvements and bug fixes.
+
 ***Version 4.3.5:*** 3/11/2024
   - Fixed a bug that occasionally caused the process of merging traveler data to be stuck, ensuring smoother operations.
   - Implemented automatic addition of "OH-" prefixes to structure IDs in merged traveler sheets when absent, enhancing data consistency.
