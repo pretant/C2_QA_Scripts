@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.1:*** 4/22/2024
+  - Added deletion of hidden desktop.ini and .DS_Store files
+  - Updated Helo data processing.
+  - Minor improvements and bug fixes.
+
 ***Version 4.4.0:*** 3/21/2024
   - Added "Time Sheet" to Quick Links
   - Combined Transmission and Distribution dropdowns into "Data Processing". The script now figures out which scope the user is processing using the name of the GIS extract or Filtered Extract.
