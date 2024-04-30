@@ -4,6 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.2:*** 4/30/2024
+  - Changed Helo Bloci ID to D/T2499-0001
+  - Fixed Helo Data Packaging bug
+  - Minor improvements and bug fixes.
+
 ***Version 4.4.1:*** 4/22/2024
   - Added deletion of hidden desktop.ini and .DS_Store files
   - Updated Helo data processing.
