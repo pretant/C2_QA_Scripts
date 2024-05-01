@@ -4,6 +4,9 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.3:*** 5/1/2024
+  - Update Helo Extract Structures List
+
 ***Version 4.4.2:*** 4/30/2024
   - Changed Helo Bloci ID to D/T2499-0001
   - Fixed Helo Data Packaging bug
