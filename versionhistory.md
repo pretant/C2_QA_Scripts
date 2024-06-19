@@ -4,11 +4,14 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.4:*** 6/19/2024
+  - Helo's Package Data function no longer remove images out of their respective structure folders.
+
 ***Version 4.4.3:*** 5/1/2024
-  - Update Helo Extract Structures List
+  - Updated Helo Extract Structures List
 
 ***Version 4.4.2:*** 4/30/2024
-  - Changed Helo Bloci ID to D/T2499-0001
+  - Changed Helo Block ID to D/T2499-0001
   - Fixed Helo Data Packaging bug
   - Minor improvements and bug fixes.
 
