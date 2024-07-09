@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.4.5:*** 7/5/2024
+  - Upload Date now carries over to merged traveler sheets.
+  - Minor improvements and bug fixes.
+
 ***Version 4.4.4:*** 6/19/2024
   - Helo's Package Data function no longer remove images out of their respective structure folders.
 
