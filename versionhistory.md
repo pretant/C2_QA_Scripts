@@ -4,6 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.5.0:*** 7/12/2025
+  - Duplicate EZ Poles that are in both scopes when filtering extract.
+  - Minor improvements and bug fixes.
+
 ***Version 4.4.5:*** 7/5/2024
   - Upload Date now carries over to merged traveler sheets.
   - Minor improvements and bug fixes.
