@@ -4,6 +4,14 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
+***Version 4.5.1:*** 8/7/2025
+  - Fixed bug where EZ Poles duplication process misbehaves when processing transmission assets.
+  - Properly format Team Number column in filtered extract.
+  - Properly format the sheet name for each team in filtered extract.
+  - Added Krista Burruss to login list.
+  - Fixed Helo scripts in accordance to the new extract.
+  - Minor improvements and bug fixes.
+
 ***Version 4.5.0:*** 7/12/2025
   - Duplicate EZ Poles that are in both scopes when filtering extract.
   - Minor improvements and bug fixes.
