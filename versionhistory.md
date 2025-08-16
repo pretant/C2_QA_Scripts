@@ -5,6 +5,11 @@ permalink: /versionhistory/
 ---
 
 ***Version 4.5.1:*** 8/7/2025
+  - Helo data can now be processed through Data Processing (instead of Helo).
+  - Fixed Helo scripts in accordance to the new extract.
+  - Minor improvements and bug fixes.
+
+***Version 4.5.1:*** 8/7/2025
   - Fixed bug where EZ Poles duplication process misbehaves when processing transmission assets.
   - Properly format Team Number column in filtered extract.
   - Properly format the sheet name for each team in filtered extract.
