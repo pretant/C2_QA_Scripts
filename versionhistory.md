@@ -4,7 +4,11 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 4.5.1:*** 8/7/2025
+***Version 4.5.3:*** 8/21/2025
+  - Filter Extract now automatically keeps rows that have the latest inspection dates when duplicate FLOCs are found.
+  - Minor improvements and bug fixes.
+
+***Version 4.5.2:*** 8/11/2025
   - Helo data can now be processed through Data Processing (instead of Helo).
   - Fixed Helo scripts in accordance to the new extract.
   - Minor improvements and bug fixes.
