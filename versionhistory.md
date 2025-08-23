@@ -4,8 +4,10 @@ title: "Version History"
 permalink: /versionhistory/
 ---
 
-***Version 4.5.3:*** 8/21/2025
-  - Filter Extract now automatically keeps rows that have the latest inspection dates when duplicate FLOCs are found.
+***Version 4.5.3:*** 8/22/2025
+  - Filter Extract: When duplicate entries are found in the extract: 
+    a. The script automatically keeps rows with inspection dates matching the nadir's date-taken value.
+    b. The script will ask user which rows to keep if no match or multiple matches were found, or when if the inspection date columns are empty.    
   - Minor improvements and bug fixes.
 
 ***Version 4.5.2:*** 8/11/2025
